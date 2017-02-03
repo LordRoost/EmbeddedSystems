@@ -1,3 +1,3 @@
 # EmbeddedSystems
 
-Projects I worked on for Concordia's Embedded Systems (SOEN422) class.
+Various projects I worked on that involves Arduinos or chips.
